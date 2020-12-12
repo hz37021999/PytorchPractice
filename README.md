@@ -5,6 +5,6 @@
 
 老师讲的很好，我在听的时候一边写代码一边写了很多注释
 
-Record some classic cases with pytorch.
+Record some classical cases with pytorch.
 
 Refer to Pytorch Tutorial https://www.bilibili.com/video/BV1Y7411d7Ys 
